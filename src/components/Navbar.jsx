@@ -12,7 +12,7 @@ const Navbar = () => {
       </div>
       <div className="mx-auto flex gap-4 items-center">
         <div>
-          <h2 className="text-3xl font-bold">FULL INTERNSHITP ASSESSMENT</h2>
+          <h2 className="text-3xl font-bold">FULL INTERNSHIP ASSESSMENT</h2>
         </div>
       </div>
 

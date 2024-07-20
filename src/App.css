@@ -1,5 +1,5 @@
 .bg-img{
-    background: url('../public/hero.jpg');
+    background: url('/hero.jpg');
     background-position: center;
     background-size: cover;
 }

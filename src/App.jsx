@@ -22,11 +22,11 @@ const App = () => {
       </div>
 
       <div className="w-[90%] flex gap-2 justify-center mt-8 flex-wrap">
-        <Footer text={"CODING CHALLENGE"} bg={"orange"}/>
+        <Footer text={"CODING CHALLENGE"} bg={"blue"}/>
         <Footer text={"LIVE ASSESSMENT"} bg={"orange"}/>
-        <Footer text={"PROJECT SUBMISSION"} bg={"blue"}/>
+        <Footer text={"PROJECT SUBMISSION"} bg={"orange"}/>
         <Footer text={"PORTFOLIO ASSESSMENT"} bg={"orange"}/>
-        <Footer text={"CODE ASSESSMENT"} bg={"blue"}/>
+        <Footer text={"CODE ASSESSMENT"} bg={"orange"}/>
         <Footer text={"CODING CHALLENGE"} bg={"orange"}/>
       </div>
      </div>
